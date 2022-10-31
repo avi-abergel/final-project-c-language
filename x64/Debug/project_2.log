@@ -1,0 +1,5 @@
+﻿  twentySnaps.c
+C:\Users\97252\source\repos\project_2\project_2\twentySnaps.c(9,30): warning C4013: 'GetProcessInfo' undefined; assuming extern returning int
+C:\Users\97252\source\repos\project_2\project_2\twentySnaps.c(9,1): warning C4047: 'initializing': 'Snapshot *' differs in levels of indirection from 'int'
+twentySnaps.obj : error LNK2019: unresolved external symbol GetProcessInfo referenced in function twentySnaps
+C:\Users\97252\source\repos\project_2\x64\Debug\project_2.exe : fatal error LNK1120: 1 unresolved externals
